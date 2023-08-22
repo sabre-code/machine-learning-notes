@@ -1,1 +1,1 @@
-7.1 GB (GPU for BERT)
+7.1 GB (GPU for  distil BERT)
